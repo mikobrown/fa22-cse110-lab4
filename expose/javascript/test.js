@@ -1,1 +1,0 @@
-console.log(Math.round(50000/100)/100)
