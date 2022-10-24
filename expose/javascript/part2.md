@@ -10,7 +10,7 @@
 10. Line 12 will print "3".
 11. The function will return the list [50, 100, 150]. The function goes through the prices list, and because discount is 0.5, cuts the value of each element in half and returns new list of halved numbers.
 12. g
-    A. f
+    A. f  
     B. d
     C. d
 16. sdaf
