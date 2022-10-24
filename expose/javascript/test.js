@@ -1,5 +1,1 @@
-for (var i = 0; i < 3; i++) {
-    console.log(i)
-}
-console.log(i)
-console.log(i)
+console.log(Math.round(50000/100)/100)
